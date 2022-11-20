@@ -1,3 +1,3 @@
 <h1 align="center"> Natural Language Processing </h1>
-<p align="justify"> O NLTK é uma das mais antigas biblioteca de NLP, sendo utilizada nesse projeto para criação de um chatbot. Caso queira saber mais sobre NLTK: https://www.nltk.org/ </p>
+<p align="justify"> O NLTK é uma das mais antigas biblioteca de NLP, sendo utilizada nesse projeto para criação de um chatbot. Caso queira saber mais sobre NLTK: https://www.nltk.org/. Lemmatizer: é o processo de agrupar as formas flexionadas de uma palavra para analisá-las como uma única palavra em lingüística. NLTK tem diferentes algoritmos de lematização e funções para usar diferentes determinações. Bag of Words: é um método para extrair recursos de documentos de texto. Esses recursos podem ser usados para treinar algoritmos de aprendizado de máquina, criando assim um vocabulário de todas as palavras únicas que ocorrem em todos os documentos do conjunto de treinamento.</p>
 
